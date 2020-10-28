@@ -1,0 +1,12 @@
+{
+  "name": "exerciceList",
+  "displayName": "exerciceList",
+  "expo": {
+    "name": "exerciceList",
+    "slug": "exerciceList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
